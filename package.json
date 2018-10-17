@@ -1,0 +1,15 @@
+{
+  "name": "mailvelope-cypress",
+  "version": "0.0.1",
+  "description": "Mailvelope test suite using cypress",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress-open": "./node_modules/cypress/bin/cypress open"
+  },
+  "author": "Mailvelope GmbH",
+  "license": "AGPL-3.0-or-later"
+}
